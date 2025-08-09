@@ -20,7 +20,7 @@ Este projeto ainda está em fase de desenvolvimento e não está completo. Funci
 - Sistema de coleta e armazenamento de dados de treinamento
 - Interface visual com feedback em tempo real
 
-#### ❌ Limita��ões Atuais:
+#### ❌ Limitações Atuais:
 - Conjunto limitado de letras reconhecidas
 - Precisão pode variar dependendo da iluminação e posicionamento
 - Não possui interface gráfica amigável
