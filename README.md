@@ -40,7 +40,7 @@ Este projeto ainda está em fase de desenvolvimento e não está completo. Funci
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITORIO]
+git clone https://github.com/JoaoPedroHenriquesB/libra-letter-translator.git
 cd tradutor-de-libras
 ```
 
